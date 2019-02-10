@@ -103,9 +103,7 @@
       </td>
     </tr>
   </tbody>
-</table>> 
-
-> [About Family Templates \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-Customize/files/GUID-E36987A9-A68F-4121-A391-907306BAA60A-htm.html)
+</table>> [About Family Templates \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-Customize/files/GUID-E36987A9-A68F-4121-A391-907306BAA60A-htm.html)
 
 ### Создание и параметризация семейств. Загрузка в проект.
 
@@ -113,7 +111,7 @@
 
 ### Вложенные семейства.
 
-В семейства можно подгружать семейства. Экземпляры подгруженных семейств можно использовать для  моделирования. А подгруженные типы можно использовать в качестве значений параметров семейства.
+В семейства можно подгружать семейства. Экземпляры подгруженных семейств можно использовать для моделирования. А подгруженные типы можно использовать в качестве значений параметров семейства.
 
 ### Shared \(общие\) семейства
 
