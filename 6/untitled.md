@@ -1,6 +1,3 @@
 # Untitled
 
-{% embed url="https://www.youtube.com/watch?v=PSKLznDHLGU" %}
-
-
-
+{% embed url="https://youtu.be/PSKLznDHLGU" %}
