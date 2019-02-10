@@ -39,11 +39,11 @@
 
 Как правило о специфике шаблона говорит его суффикс в названии.
 
-* Host-based \( wall-based, ceiling-based, floor-based, and roof-based\)
-* Adaptive
-* Line based
-* Two level based
-* Face-based
+* Требуещее основу \(Host-based\) \( wall-based, ceiling-based, floor-based, and roof-based\)
+* Адаптивное \(Adaptive\)
+* На основе линии \(Line based\)
+* На основе двух уровней \(Two level based\)
+* На основе грани \(Face-based\)
 * ...
 
 Для корректного поведения семейства необходимо изначально выбрать правильный шаблон. Категорию в дальнейшем можно изменить в настройках семейства, а изменить шаблон будет невозможно.
