@@ -4,5 +4,5 @@
 
 {% embed url="https://youtu.be/PSKLznDHLGU" caption="" %}
 
-{% file src="../.gitbook/assets/desk-set.rfa" %}
+{% file src="../.gitbook/assets/diningtablerectangle.rfa" %}
 
