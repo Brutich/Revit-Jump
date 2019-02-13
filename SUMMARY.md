@@ -8,6 +8,6 @@
   * [Самостоятельная работа](4/domashnee-zadanie.md)
 * [\#5](5.md)
 * [\#6](6/README.md)
-  * [Untitled](6/untitled.md)
+  * [Обеденный стол](6/untitled.md)
 * [\#7](7.md)
 
