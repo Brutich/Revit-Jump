@@ -6,4 +6,7 @@
 * [\#3](3.md)
 * [\#4](4/README.md)
   * [Самостоятельная работа](4/domashnee-zadanie.md)
+* [\#5](5.md)
+* [\#6](6/README.md)
+  * [Untitled](6/untitled.md)
 
