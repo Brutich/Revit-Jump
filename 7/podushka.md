@@ -6,5 +6,5 @@ description: Самостоятельная работа. Пример семе�
 
 {% embed url="https://youtu.be/0AhWYwGZ6FI" %}
 
-{% file src="../.gitbook/assets/pillow.rfa" caption="Семейство подушки" %}
+{% file src="../.gitbook/assets/pillow \(1\).rfa" caption="Семейство подушки" %}
 
