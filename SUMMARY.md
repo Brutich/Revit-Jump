@@ -10,7 +10,6 @@
 * [\#6](6/README.md)
   * [Обеденный стол](6/untitled.md)
 * [\#7](7/README.md)
-  * [Подушка](7/podushka.md)
   * [Подушка](7/untitled.md)
 * [\#8](8.md)
 
