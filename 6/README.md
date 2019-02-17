@@ -48,30 +48,28 @@
 
 Для корректного поведения семейства необходимо изначально выбрать правильный шаблон. Категорию в дальнейшем можно изменить в настройках семейства, а изменить шаблон будет невозможно.
 
-| Для того, чтобы создать... | Шаблон |
-| :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">2D семейство</th>
-      <th style="text-align:left">
+      <th style="text-align:left">Для того, чтобы создать...</th>
+      <th style="text-align:left">Шаблон</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">2D семейство</td>
+      <td style="text-align:left">
         <ul>
           <li>Элемент узла</li>
           <li>Профиль</li>
           <li>Аннотация</li>
           <li>Основная надпись</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D семейства, для которых требуются специальные функции</th>
-      <th style="text-align:left">
+      <td style="text-align:left">3D семейства, для которых требуются специальные функции</td>
+      <td style="text-align:left">
         <ul>
           <li>Балясина</li>
           <li>Несущий каркас</li>
@@ -79,15 +77,11 @@
           <li>Арматура</li>
           <li>На основе образца</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D семейство, требующее овснову</th>
-      <th style="text-align:left">
+      <td style="text-align:left">3D семейство, требующее овснову</td>
+      <td style="text-align:left">
         <ul>
           <li>На основе стены</li>
           <li>На основе потолка</li>
@@ -95,26 +89,23 @@
           <li>На основе крыши</li>
           <li>На основе грани</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D семейство, не требующее для создания основу</th>
-      <th style="text-align:left">
+      <td style="text-align:left">3D семейство, не требующее для создания основу</td>
+      <td style="text-align:left">
         <ul>
           <li>На основе линии</li>
           <li>Отдельное (на основе уровня)</li>
           <li>Адаптивное</li>
           <li>На основе 2-х уровней (колонна)</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>### Создание и параметризация семейств. Загрузка в проект.
+  </tbody>
+</table>> [About Family Templates \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-Customize/files/GUID-E36987A9-A68F-4121-A391-907306BAA60A-htm.html)
+
+### Создание и параметризация семейств. Загрузка в проект.
 
 В отличии от Архикад библиотека семейств может быть лишь всегда вложена в файл.
 
