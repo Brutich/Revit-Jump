@@ -4,8 +4,6 @@ description: Самостоятельная работа. Пример архи�
 
 # Обеденный стол
 
-
-
 ![](../.gitbook/assets/diningtablerectangle.jpg)
 
 {% embed url="https://youtu.be/PSKLznDHLGU" caption="" %}

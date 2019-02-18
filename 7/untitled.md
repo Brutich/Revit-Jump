@@ -4,7 +4,7 @@ description: Самостоятельная работа. Пример адап�
 
 # Подушка
 
-{% embed url="https://youtu.be/0AhWYwGZ6FI" %}
+{% embed url="https://youtu.be/0AhWYwGZ6FI" caption="" %}
 
 {% file src="../.gitbook/assets/pillow.rfa" caption="Семейство подушки" %}
 
