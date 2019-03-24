@@ -1,5 +1,7 @@
 # \#6
 
+
+
 ## Группы \(Groups\)
 
 Капризный, но очень мощный инструмент, требующий аккуратного и внимательного к себе отношения.
@@ -48,15 +50,18 @@
 
 Для корректного поведения семейства необходимо изначально выбрать правильный шаблон. Категорию в дальнейшем можно изменить в настройках семейства, а изменить шаблон будет невозможно.
 
-| Для того, чтобы создать... | Шаблон |
-| :--- | :--- |
-
-
 <table>
   <thead>
     <tr>
-      <th style="text-align:left">2D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;</th>
-      <th
+      <th style="text-align:left">&#x414;&#x43B;&#x44F; &#x442;&#x43E;&#x433;&#x43E;, &#x447;&#x442;&#x43E;&#x431;&#x44B;
+        &#x441;&#x43E;&#x437;&#x434;&#x430;&#x442;&#x44C;...</th>
+      <th style="text-align:left">&#x428;&#x430;&#x431;&#x43B;&#x43E;&#x43D;</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">2D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;</td>
+      <td
       style="text-align:left">
         <ul>
           <li>&#x42D;&#x43B;&#x435;&#x43C;&#x435;&#x43D;&#x442; &#x443;&#x437;&#x43B;&#x430;</li>
@@ -64,18 +69,14 @@
           <li>&#x410;&#x43D;&#x43D;&#x43E;&#x442;&#x430;&#x446;&#x438;&#x44F;</li>
           <li>&#x41E;&#x441;&#x43D;&#x43E;&#x432;&#x43D;&#x430;&#x44F; &#x43D;&#x430;&#x434;&#x43F;&#x438;&#x441;&#x44C;</li>
         </ul>
-        </th>
+        </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x430;, &#x434;&#x43B;&#x44F;
+      <td style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x430;, &#x434;&#x43B;&#x44F;
         &#x43A;&#x43E;&#x442;&#x43E;&#x440;&#x44B;&#x445; &#x442;&#x440;&#x435;&#x431;&#x443;&#x44E;&#x442;&#x441;&#x44F;
         &#x441;&#x43F;&#x435;&#x446;&#x438;&#x430;&#x43B;&#x44C;&#x43D;&#x44B;&#x435;
-        &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x438;</th>
-      <th style="text-align:left">
+        &#x444;&#x443;&#x43D;&#x43A;&#x446;&#x438;&#x438;</td>
+      <td style="text-align:left">
         <ul>
           <li>&#x411;&#x430;&#x43B;&#x44F;&#x441;&#x438;&#x43D;&#x430;</li>
           <li>&#x41D;&#x435;&#x441;&#x443;&#x449;&#x438;&#x439; &#x43A;&#x430;&#x440;&#x43A;&#x430;&#x441;</li>
@@ -83,16 +84,12 @@
           <li>&#x410;&#x440;&#x43C;&#x430;&#x442;&#x443;&#x440;&#x430;</li>
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x43E;&#x431;&#x440;&#x430;&#x437;&#x446;&#x430;</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;, &#x442;&#x440;&#x435;&#x431;&#x443;&#x44E;&#x449;&#x435;&#x435;
-        &#x43E;&#x432;&#x441;&#x43D;&#x43E;&#x432;&#x443;</th>
-      <th style="text-align:left">
+      <td style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;, &#x442;&#x440;&#x435;&#x431;&#x443;&#x44E;&#x449;&#x435;&#x435;
+        &#x43E;&#x432;&#x441;&#x43D;&#x43E;&#x432;&#x443;</td>
+      <td style="text-align:left">
         <ul>
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x441;&#x442;&#x435;&#x43D;&#x44B;</li>
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x43F;&#x43E;&#x442;&#x43E;&#x43B;&#x43A;&#x430;</li>
@@ -100,17 +97,13 @@
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x43A;&#x440;&#x44B;&#x448;&#x438;</li>
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x433;&#x440;&#x430;&#x43D;&#x438;</li>
         </ul>
-      </th>
+      </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table><table>
-  <thead>
     <tr>
-      <th style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;, &#x43D;&#x435;
+      <td style="text-align:left">3D &#x441;&#x435;&#x43C;&#x435;&#x439;&#x441;&#x442;&#x432;&#x43E;, &#x43D;&#x435;
         &#x442;&#x440;&#x435;&#x431;&#x443;&#x44E;&#x449;&#x435;&#x435; &#x434;&#x43B;&#x44F;
-        &#x441;&#x43E;&#x437;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x443;</th>
-      <th
+        &#x441;&#x43E;&#x437;&#x434;&#x430;&#x43D;&#x438;&#x44F; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x443;</td>
+      <td
       style="text-align:left">
         <ul>
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; &#x43B;&#x438;&#x43D;&#x438;&#x438;</li>
@@ -120,11 +113,12 @@
           <li>&#x41D;&#x430; &#x43E;&#x441;&#x43D;&#x43E;&#x432;&#x435; 2-&#x445; &#x443;&#x440;&#x43E;&#x432;&#x43D;&#x435;&#x439;
             (&#x43A;&#x43E;&#x43B;&#x43E;&#x43D;&#x43D;&#x430;)</li>
         </ul>
-        </th>
+        </td>
     </tr>
-  </thead>
-  <tbody></tbody>
-</table>### Создание и параметризация семейств. Загрузка в проект.
+  </tbody>
+</table>> [About Family Templates \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2018/ENU/Revit-Customize/files/GUID-E36987A9-A68F-4121-A391-907306BAA60A-htm.html)
+
+### Создание и параметризация семейств. Загрузка в проект.
 
 В отличии от Архикад библиотека семейств может быть лишь всегда вложена в файл.
 
@@ -137,4 +131,10 @@
 Опция Общее \(Shared\) у вложенных семейств.
 
 > [About Families \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Model/files/GUID-6DDC1D52-E847-4835-8F9A-466531E5FD29-htm.html)
+
+## Запись
+
+{% embed url="https://youtu.be/1q7\_Ogos6zQ" %}
+
+
 
