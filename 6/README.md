@@ -132,3 +132,9 @@
 
 > [About Families \(Autodesk Knowledge\)](https://knowledge.autodesk.com/support/revit-products/learn-explore/caas/CloudHelp/cloudhelp/2016/ENU/Revit-Model/files/GUID-6DDC1D52-E847-4835-8F9A-466531E5FD29-htm.html)
 
+## Запись
+
+{% embed url="https://youtu.be/1q7\_Ogos6zQ" %}
+
+
+
